@@ -1,0 +1,10 @@
+Opencv = pip install opencv-contrib-python
+Numpy = al instalar OpenCV via pip ta,bien se instala nunpy
+Mediapipe = pip install mediapipe 
+
+pip install pyserial
+
+•	mediapipe==0.9.0
+•	numpy==1.23.5
+•	opencv-contrib-python==4.6.0.66
+
